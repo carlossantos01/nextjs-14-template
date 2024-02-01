@@ -7,5 +7,5 @@ export const middleware = (request: NextRequest) => {
 };
 
 export const config = {
-  matcher: ["/((?!api|static|.*\\..*|_next).*)", { source: "/" }],
+  matcher: ["/((?!api|static|.*\\..*|_next).*)"],
 };
