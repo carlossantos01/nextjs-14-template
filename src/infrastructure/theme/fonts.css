@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Frutiger";
+  src: url("./fonts/Frutiger-regular.ttf");
+}
+@font-face {
+  font-family: "Frutiger-bold";
+  src: url("./fonts/Frutiger-bold.ttf");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Frutiger-semibold";
+  src: url("./fonts/Frutiger-semibold.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Frutiger-italic";
+  src: url("./fonts/Frutiger-italic.ttf");
+}
+@font-face {
+  font-family: "Frutiger-light";
+  src: url("./fonts/Frutiger-light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Frutiger-45-light";
+  src: url("./fonts/Frutiger-lt-45-light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Frutiger-55";
+  src: url("./fonts/Frutiger-55.ttf");
+}
+@font-face {
+  font-family: "Frutiger-65-bold";
+  src: url("./fonts/Frutiger-lt-65-bold.ttf");
+}
